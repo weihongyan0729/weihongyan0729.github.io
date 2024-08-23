@@ -1,4 +1,4 @@
-- First-prize Academic Scholarship raduate Academic Scholarships, 2023.
+- First-prize Academic Scholarship, 2023.
 
 - Freshman Academic Scholarship, 2022.
 
