@@ -146,6 +146,13 @@ h3, .h3 {
     font-size: 1.75rem;
   }
 }
+#top-section-bg-text {
+    font-size: 4em; /* 将字体放大到4em，您可以根据需要调整 */
+    font-weight: bold; /* 可选：加粗字体 */
+    line-height: 1.2; /* 可选：调整行高 */
+    text-align: center; /* 可选：将文本居中 */
+    color: white; /* 确保字体颜色为白色，与背景形成对比 */
+}
 
 h4, .h4 {
   font-size: calc(1.275rem + 0.3vw);
