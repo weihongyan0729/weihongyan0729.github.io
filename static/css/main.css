@@ -1,5 +1,8 @@
 @import "./styles.css";
-
+/* 全局字体设置 */
+body {
+    font-family: 'Calibri', sans-serif;
+}
 
 :root{
     --h-title-color:#3948d2;
