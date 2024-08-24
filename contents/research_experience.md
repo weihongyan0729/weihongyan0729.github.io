@@ -1,11 +1,22 @@
-### Master of Engineering Management (Data Mining)
-**Dongbei University of Finance and Economics (DUFE)**, Dalian, China  
-_Sep 2022 - Present_  
-- Average score: 92.378; GPA: 4.3/5.0; Ranking: 3/80
-- Major courses: Fundamentals of Big Data (97), Python Language and Applications (97), Internet Finance (95), Systems Engineering And Quantitative Analysis (94), Financial Modeling And Econometric Analysis (96)
+**Master’s Thesis (DUFE)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Mar 2024 - Present**<br>
+**Short Video Popularity Prediction and Quality Assessment Based on Multi-modal Fusion**<br>
+**Supervisor:** Professor Ming Gao<br>
+- Constructed a short video popularity prediction model based on VAE and multimodal feature fusion methods. Extracted visual, audio, text, and user attribute features. Encoded the features into latent variables using MLP and Bayesian expert products, then decoded them to predict video popularity.
+- Proposed to construct a comprehensive content quality evaluation system for short videos based on the prediction results, providing targeted recommendations for improving and optimizing short videos, with the goal of enhancing their overall quality and value.
+- Currently, the short video popularity prediction model has been successfully constructed, and a multimodal popularity dataset based on the BiiBili video website has been built. The popularity prediction model has also achieved ideal results on the BiiBili dataset.
 
-### Bachelor of Computer Science and Technology
-**Lanzhou Jiaotong University (LZJTU)**, Lanzhou, China  
-_Sep 2015 - Jun 2019_  
-- Ranking: 14/128
-- Major courses: Data Structure (85), Algorithm Design and Analysis, Operating System Principle, Computer Network, Principles of Database, Computer Organization and Architecture, Principles of Compiling (100), Artificial Intelligence (93), C/C++/JAVA Language Programming
+**Leading Talent Project of Dalian Province (DUFE)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Jan 2023 - Present**<br>
+**Multi-Modal Intelligent Interaction and Optimization Algorithms Research for Bionic Service Robots**<br>
+**Project Leader:** Professor J.F. Tang; **Supervisor:** Professor Ming Gao<br>
+- Assisted in writing the core contents of the Feasibility Report of the project. Completed the “overall implementation idea framework diagram”, “general technical roadmap” and content for the “S1: multi-modal intelligent recognition and expression” and “S2: intention recognition and intelligent interaction” modules, making significant contributions to the initial stage of the project.
+- Currently involved in the research of the core modules S1 and S2, which is actively ongoing and aims to achieve significant results.
+
+**Research Experiment (DUFE)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Helmet Wearing Detection based on YOLOv5** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **May 2023 - Jul 2023**<br>
+- Built an original helmet-wearing detection dataset suitable for safety monitoring in industrial scenarios like construction sites, providing a reliable and reusable dataset for research in related fields.
+- Trained an optimal model on the self-made dataset using the YOLOv5 object detection framework. Evaluated the model’s performance, demonstrating a good comprehensive detection performance in the dataset.
+- Compared the performance of YOLOv5 with the classic detection models Fast-R-CNN and SSD. Discussed and compared the characteristics of the three models in terms of performance metrics, dataset adaptability, model structure, and inference rate, strengthening the understanding of the three classic object detection models.
+
+**Undergraduate Thesis** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Design and Implementation of Image Enhancement System** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Dec 2018 - Jun 2019**<br>
+**Supervisor:** Professor Yong Chen<br>
+- Designed and implemented an image enhancement system with Matlab based on Dark Channel Prior algorithm, Retinex image enhancement algorithm, and Histogram Equalization algorithm, achieving expected enhancement and restoration of degraded images with haze, color distortion or low contrast.
+- Innovatively combined the SSR algorithm, AHE algorithm, and CLAHE algorithm with the DCP algorithm respectively, compensating for the shortcomings of individual algorithms in processing multiple quality dimensions. Achieved the highest ranking in the university-level graduation defense, earning unanimous praise from the committee members.
