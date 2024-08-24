@@ -1,17 +1,18 @@
+# Welcome!
 
+I am currently a master's student at Dongbei University of Finance and Economics (DUFE), focusing on multimodal fusion, deep learning, and image processing. I am also an Integration Engineer at Ericsson.
 
+---
 
-I am currently a master's student at DUFE, focusing on multimodal fusion, deep learning, and image processing;
-I am also an Integration Engineer at Ericsson.
+## Email
+📧 [weihongyan0729@gmail.com](mailto:weihongyan0729@gmail.com)
 
-#### Email
-weihongyan0729@gmail.com
+---
 
+## Research Interests
 
-#### Research Interests
-- Multimodal Learning: Multimodal fusion methods in short video Popularity Prediction
+- **Multimodal Learning**: Multimodal fusion methods in short video popularity prediction
+- **Computer Vision**: Object Detection, Object Tracking, Image Classification, Image Segmentation
+- **Image Processing**: Image Dehazing, Image Enhancement
 
-- Computer Vision: Object Detection, Object Tracking, Image Classification, Image Segmentation
-
-- Image Processing: Image Dehazing, Image Enhancement
-
+---
