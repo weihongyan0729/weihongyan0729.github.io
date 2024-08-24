@@ -1,5 +1,5 @@
 **Master of Engineering Management (Data Mining)**, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Sep 2022 - Present**<br>
-**Dongbei University of Finance and Economics (DUFE)**, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Dalian, China**<br>
+**Dongbei University of Finance and Economics (DUFE)**, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Dalian, China**<br>
 - Average score: 92.378; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GPA: 4.3/5.0; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ranking: 3/80<br>
 - Major courses: Fundamentals of Big Data (97), Python Language and Applications (97), Internet Finance (95), Systems Engineering And Quantitative Analysis (94), Financial Modeling And Econometric Analysis (96)<br>
 
