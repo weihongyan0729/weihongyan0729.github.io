@@ -154,6 +154,43 @@ h3, .h3 {
     color: white; /* 确保字体颜色为白色，与背景形成对比 */
 }
 
+/* Education Section Styles */
+#education {
+    background-color: #f8f9fa; /* Light background color */
+    padding: 60px 0; /* Padding for top and bottom */
+}
+
+#education h2 {
+    font-size: 2.5rem; /* Larger font size for title */
+    font-weight: 700; /* Bold font weight */
+    color: #343a40; /* Dark text color for contrast */
+    border-bottom: 2px solid #007bff; /* Blue underline for emphasis */
+    padding-bottom: 10px; /* Padding below the title */
+    margin-bottom: 20px; /* Margin below the title */
+}
+
+#education .main-body {
+    font-size: 1.1rem; /* Slightly larger font size for readability */
+    line-height: 1.6; /* Line height for better readability */
+    color: #495057; /* Darker text color */
+}
+
+.education-item {
+    margin-bottom: 20px; /* Space between items */
+}
+
+.education-item h3 {
+    font-size: 1.2rem; /* Font size for the degree */
+    font-weight: 600; /* Medium font weight */
+    margin-bottom: 5px; /* Margin below the degree */
+}
+
+.education-item p {
+    margin: 0; /* Remove default margin */
+    color: #6c757d; /* Light gray color for additional details */
+}
+
+
 h4, .h4 {
   font-size: calc(1.275rem + 0.3vw);
 }
