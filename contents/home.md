@@ -8,10 +8,6 @@ I am also an Integration Engineer at Ericsson.
 weihongyan0729@gmail.com
 
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2022.
-
 #### Research Interests
 - Multimodal Learning: Multimodal fusion methods in short video Popularity Prediction
 
