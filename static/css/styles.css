@@ -146,13 +146,6 @@ h3, .h3 {
     font-size: 1.75rem;
   }
 }
-#top-section-bg-text {
-    font-size: 4em; /* 将字体放大到4em，您可以根据需要调整 */
-    font-weight: bold; /* 可选：加粗字体 */
-    line-height: 1.2; /* 可选：调整行高 */
-    text-align: center; /* 可选：将文本居中 */
-    color: white; /* 确保字体颜色为白色，与背景形成对比 */
-}
 
 h4, .h4 {
   font-size: calc(1.275rem + 0.3vw);
@@ -649,7 +642,7 @@ progress {
 .container-lg,
 .container-md,
 .container-sm {
-  --bs-gutter-x: 1rem;
+  --bs-gutter-x: 1.5rem;
   --bs-gutter-y: 0;
   width: 100%;
   padding-right: calc(var(--bs-gutter-x) * 0.5);
@@ -684,7 +677,7 @@ progress {
   }
 }
 .row {
-  --bs-gutter-x: 1rem;
+  --bs-gutter-x: 1.5rem;
   --bs-gutter-y: 0;
   display: flex;
   flex-wrap: wrap;
@@ -901,12 +894,12 @@ progress {
 
 .g-5,
 .gx-5 {
-  --bs-gutter-x: 1rem;
+  --bs-gutter-x: 3rem;
 }
 
 .g-5,
 .gy-5 {
-  --bs-gutter-y: 1rem;
+  --bs-gutter-y: 3rem;
 }
 
 @media (min-width: 576px) {
@@ -1236,15 +1229,15 @@ progress {
   }
   .g-md-4,
   .gy-md-4 {
-    --bs-gutter-y: 1rem;
+    --bs-gutter-y: 1.5rem;
   }
   .g-md-5,
   .gx-md-5 {
-    --bs-gutter-x: 1rem;
+    --bs-gutter-x: 3rem;
   }
   .g-md-5,
   .gy-md-5 {
-    --bs-gutter-y: 1rem;
+    --bs-gutter-y: 3rem;
   }
 }
 @media (min-width: 992px) {
@@ -1401,19 +1394,19 @@ progress {
   }
   .g-lg-4,
   .gx-lg-4 {
-    --bs-gutter-x: 1rem;
+    --bs-gutter-x: 1.5rem;
   }
   .g-lg-4,
   .gy-lg-4 {
-    --bs-gutter-y: 1rem;
+    --bs-gutter-y: 1.5rem;
   }
   .g-lg-5,
   .gx-lg-5 {
-    --bs-gutter-x: 1rem;
+    --bs-gutter-x: 3rem;
   }
   .g-lg-5,
   .gy-lg-5 {
-    --bs-gutter-y: 1rem;
+    --bs-gutter-y: 3rem;
   }
 }
 @media (min-width: 1200px) {
@@ -1578,11 +1571,11 @@ progress {
   }
   .g-xl-5,
   .gx-xl-5 {
-    --bs-gutter-x: 1rem;
+    --bs-gutter-x: 3rem;
   }
   .g-xl-5,
   .gy-xl-5 {
-    --bs-gutter-y: 1rem;
+    --bs-gutter-y: 3rem;
   }
 }
 @media (min-width: 1400px) {
@@ -1739,19 +1732,19 @@ progress {
   }
   .g-xxl-4,
   .gx-xxl-4 {
-    --bs-gutter-x: 1rem;
+    --bs-gutter-x: 1.5rem;
   }
   .g-xxl-4,
   .gy-xxl-4 {
-    --bs-gutter-y: 1rem;
+    --bs-gutter-y: 1.5rem;
   }
   .g-xxl-5,
   .gx-xxl-5 {
-    --bs-gutter-x: 1rem;
+    --bs-gutter-x: 3rem;
   }
   .g-xxl-5,
   .gy-xxl-5 {
-    --bs-gutter-y: 1rem;
+    --bs-gutter-y: 3rem;
   }
 }
 .table {
@@ -7628,7 +7621,7 @@ textarea.form-control-lg {
 }
 
 .mt-5 {
-  margin-top: 1rem !important;
+  margin-top: 3rem !important;
 }
 
 .mt-auto {
@@ -7769,8 +7762,8 @@ textarea.form-control-lg {
 }
 
 .px-5 {
-  padding-right: 1rem !important;
-  padding-left: 1rem !important;
+  padding-right: 3rem !important;
+  padding-left: 3rem !important;
 }
 
 .py-0 {
@@ -8577,7 +8570,7 @@ textarea.form-control-lg {
     margin-top: 1.5rem !important;
   }
   .mt-sm-5 {
-    margin-top: 1rem !important;
+    margin-top: 3rem !important;
   }
   .mt-sm-auto {
     margin-top: auto !important;
@@ -9569,7 +9562,7 @@ textarea.form-control-lg {
     margin-top: 1.5rem !important;
   }
   .mt-lg-5 {
-    margin-top: 1rem !important;
+    margin-top: 3rem !important;
   }
   .mt-lg-auto {
     margin-top: auto !important;
@@ -10561,7 +10554,7 @@ textarea.form-control-lg {
     margin-top: 1.5rem !important;
   }
   .mt-xxl-5 {
-    margin-top: 1rem !important;
+    margin-top: 3rem !important;
   }
   .mt-xxl-auto {
     margin-top: auto !important;
@@ -10915,7 +10908,3 @@ footer a:hover, footer a:active, footer a:focus {
   color: rgba(255, 255, 255, 0.75);
   text-decoration: underline;
 }
-
-
-
-
