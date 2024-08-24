@@ -1,5 +1,3 @@
-## Education
-
 ### Master of Engineering Management (Data Mining)
 **Dongbei University of Finance and Economics (DUFE)**, Dalian, China  
 _Sep 2022 - Present_  
