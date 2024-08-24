@@ -6,4 +6,4 @@ Major courses: Fundamentals of Big Data (97), python Language and Applications (
 - Bachelor of Computer Science and Technology               Sep 2015 - Jun 2019
 Lanzhou Jiaotong University (LZJTU)                         Lanzhou, China         
 Ranking:14/128
-Major courses: Data Structure(85), Algorithm Design and Analysis, Operating System Principle, Computer Network，Principles of Database, Computer Organization and Architecture, Principles of Compiling(100), Artificial Intelligence(93), C/C++/JAVA Language Programming
+Major courses: Data Structure(85), Algorithm Design and Analysis, Operating System Principle, Computer Network，Principles of Database, Computer Organization and Architecture, Principles of Compiling(100), Artificial Intelligence(93), C/C++/JAVA Language Programming.
