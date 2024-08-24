@@ -2,7 +2,6 @@
 **Dongbei University of Finance and Economics (DUFE)**, &nbsp;&nbsp;&nbsp;&nbsp;**Dalian, China**<br>
 - Average score: 92.378; &nbsp;&nbsp;&nbsp;&nbsp;GPA: 4.3/5.0; &nbsp;&nbsp;&nbsp;&nbsp;Ranking: 3/80<br>
 - Major courses: Fundamentals of Big Data (97), Python Language and Applications (97), Internet Finance (95), Systems Engineering And Quantitative Analysis (94), Financial Modeling And Econometric Analysis (96)<br><br>
-
 **Bachelor of Computer Science and Technology**, &nbsp;&nbsp;&nbsp;&nbsp;**Sep 2015 - Jun 2019**<br>
 **Lanzhou Jiaotong University (LZJTU)**, &nbsp;&nbsp;&nbsp;&nbsp;**Lanzhou, China**<br>
 - Ranking: 14/128<br>
