@@ -1,8 +1,8 @@
-I am currently a master's student at Dongbei University of Finance and Economics (DUFE), focusing on multimodal fusion, deep learning, and image processing. I am also an Integration Engineer at Ericsson.
-
----
 
 📧Email:[weihongyan0729@gmail.com](mailto:weihongyan0729@gmail.com)
+---
+
+I am currently a master's student at Dongbei University of Finance and Economics (DUFE), focusing on multimodal fusion, deep learning, and image processing. I am also an Integration Engineer at Ericsson.
 
 ---
 
