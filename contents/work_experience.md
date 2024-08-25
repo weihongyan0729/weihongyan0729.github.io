@@ -1,4 +1,4 @@
-- **Ericsson (GSC)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Apr 2021 - Present**  
+- **Ericsson (GSC)**,&nbsp;&nbsp;**Apr 2021 - Present**  
   **Integration Engineer**  
 
   <table>
@@ -13,7 +13,7 @@
   </tr>
   </table>
 
-- **China Telecom (Gansu Branch)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Jul 2019 - Mar 2021**  
+- **China Telecom (Gansu Branch)**, &nbsp;&nbsp;**Jul 2019 - Mar 2021**  
   **Market Support**  
 
   <table>
