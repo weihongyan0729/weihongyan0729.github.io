@@ -4,7 +4,7 @@
 
   <table>
   <tr>
-  <td><img src="static/assets/img/graducation_thesis.png" width="270" height="180" style="margin-right: 15px;"/></td>
+  <td><img src="static/assets/img/graducation_thesis.png" width="280" height="160" style="margin-right: 15px;"/></td>
   <td style="font-size: 0.9em; line-height: 1.2em;">
   • Constructed a short video popularity prediction model based on VAE and multimodal feature fusion methods. Extracted visual, audio, text, and user attribute features. Encoded the features into latent variables using MLP and Bayesian expert products, then decoded them to predict video popularity.<br>
   • Proposed to construct a comprehensive content quality evaluation system for short videos based on the prediction results, providing targeted recommendations for improving and optimizing short videos, with the goal of enhancing their overall quality and value.<br>
@@ -19,7 +19,7 @@
 
   <table>
   <tr>
-  <td><img src="static/assets/img/multimodel_service_robots.png" width="270" height="180" style="margin-right: 15px;"/></td>
+  <td><img src="static/assets/img/multimodel_service_robots.png" width="280" height="160" style="margin-right: 15px;"/></td>
   <td style="font-size: 0.9em; line-height: 1.2em;">
   • Assisted in writing the core contents of the Feasibility Report of the project. Completed the “overall implementation idea framework diagram,” “general technical roadmap,” and content for the “S1: multi-modal intelligent recognition and expression” and “S2: intention recognition and intelligent interaction” modules, making significant contributions to the initial stage of the project.<br>
   • Currently involved in the research of the core modules S1 and S2, which is actively ongoing and aims to achieve significant results.  
@@ -31,7 +31,7 @@
 
   <table>
   <tr>
-  <td><img src="static/assets/img/YOLOV5.png" width="270" height="180" style="margin-right: 15px;"/></td>
+  <td><img src="static/assets/img/YOLOV5.png" width="280" height="160" style="margin-right: 15px;"/></td>
   <td style="font-size: 0.9em; line-height: 1.2em;">
   • Built an original helmet-wearing detection dataset suitable for safety monitoring in industrial scenarios like construction sites, providing a reliable and reusable dataset for research in related fields.<br>
   • Trained an optimal model on the self-made dataset using the YOLOv5 object detection framework. Evaluated the model’s performance, demonstrating a good comprehensive detection performance in the dataset.<br>
@@ -45,7 +45,7 @@
 
   <table>
   <tr>
-  <td><img src="static/assets/img/undergraducate_thesis.png" width="270" height="180" style="margin-right: 15px;"/></td>
+  <td><img src="static/assets/img/undergraducate_thesis.png" width="280" height="160" style="margin-right: 15px;"/></td>
   <td style="font-size: 0.9em; line-height: 1.2em;">
   • Designed and implemented an image enhancement system with Matlab based on Dark Channel Prior algorithm, Retinex image enhancement algorithm, and Histogram Equalization algorithm, achieving expected enhancement and restoration of degraded images with haze, color distortion, or low contrast.<br>
   • Innovatively combined the SSR algorithm, AHE algorithm, and CLAHE algorithm with the DCP algorithm respectively, compensating for the shortcomings of individual algorithms in processing multiple quality dimensions. Achieved the highest ranking in the university-level graduation defense, earning unanimous praise from the committee members.  
