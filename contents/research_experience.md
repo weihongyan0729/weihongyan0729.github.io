@@ -1,4 +1,4 @@
-- **Master’s Thesis (DUFE)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Mar 2024 - Present**  
+- **Master’s Thesis (DUFE)** ,&nbsp;&nbsp; **Mar 2024 - Present**  
   **Short Video Popularity Prediction and Quality Assessment Based on Multi-modal Fusion**  
   **Supervisor:** [Professor Ming Gao](https://scholar.google.com/citations?user=GKptKm8AAAAJ&hl=zh-CN&oi=ao)  
 
@@ -13,7 +13,7 @@
   </tr>
   </table>
 
-- **Leading Talent Project of Dalian Province (DUFE)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Jan 2023 - Present**  
+- **Leading Talent Project of Dalian Province (DUFE)** ,&nbsp;&nbsp; **Jan 2023 - Present**  
   **Multi-Modal Intelligent Interaction and Optimization Algorithms Research for Bionic Service Robots**  
   **Project Leader:** [Professor J.F. Tang](https://xueshu.baidu.com/scholarID/CN-BU734BVJ); **Supervisor:** [Professor Ming Gao](https://scholar.google.com/citations?user=GKptKm8AAAAJ&hl=zh-CN&oi=ao)  
 
@@ -27,7 +27,8 @@
   </tr>
   </table>
 
-- **Research Experiment (DUFE)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Helmet Wearing Detection based on YOLOv5** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **May 2023 - Jul 2023**  
+- **Research Experiment (DUFE)**,&nbsp;&nbsp;**May 2023 - Jul 2023**
+  **Helmet Wearing Detection based on YOLOv5**
 
   <table>
   <tr>
@@ -40,7 +41,8 @@
   </tr>
   </table>
 
-- **Undergraduate Thesis** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Design and Implementation of Image Enhancement System** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Dec 2018 - Jun 2019**  
+- **Undergraduate Thesis**,**Dec 2018 - Jun 2019**
+  **Design and Implementation of Image Enhancement System**
   **Supervisor:** [Professor Yong Chen](https://xueshu.baidu.com/scholarID/CN-BB74F05J?site=xueshu_ri)  
 
   <table>
