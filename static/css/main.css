@@ -1,8 +1,5 @@
 @import "./styles.css";
-/* 全局字体设置 */
-body {
-    font-family: 'Calibri', sans-serif;
-}
+
 
 :root{
     --h-title-color:#3948d2;
@@ -63,7 +60,7 @@ section .main-body{
 }
 
 .bg-gradient-primary-to-secondary-gray {
-    background: linear-gradient(45deg, #f5f5f5, #fafafa) !important;
+    background: linear-gradient(45deg, #f0f0f0, #f1f1f1) !important;
 }
 
 
