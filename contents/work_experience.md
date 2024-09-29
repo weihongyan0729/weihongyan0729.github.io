@@ -1,8 +1,8 @@
-<div style="display: flex; align-items: center; margin-bottom: 15px;"> <!-- Adjust margin-bottom as needed -->
-  <img src="static/assets/img/ericsson_logo.png" alt="Ericsson Logo" style="width: 80px; height: 80px; margin-right: 10px; margin-bottom: 15px;"> <!-- Increased margin-bottom -->
-  <div style="padding-top: 10px;"> <!-- Add padding if needed -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;"> <!-- Use flex-start for alignment -->
+  <img src="static/assets/img/ericsson_logo.png" alt="Ericsson Logo" style="width: 80px; height: 80px; margin-right: 10px;"> <!-- Adjust margin-right for space -->
+  <div> <!-- No additional padding -->
     <strong>Ericsson (GSC)</strong>,&nbsp;&nbsp;<strong>Apr 2021 - Present</strong><br>
-    <strong>Integration Engineer</strong>
+    <strong>- Integration Engineer</strong>
   </div>
 </div>
 
@@ -18,11 +18,11 @@
 </tr>
 </table>
 
-<div style="display: flex; align-items: center; margin-bottom: 15px;"> <!-- Adjust margin-bottom as needed -->
-  <img src="static/assets/img/ct_logo.png" alt="China Telecom Logo" style="width: 80px; height: 80px; margin-right: 10px; margin-bottom: 15px;"> <!-- Increased margin-bottom -->
-  <div style="padding-top: 10px;"> <!-- Add padding if needed -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;"> <!-- Use flex-start for alignment -->
+  <img src="static/assets/img/ct_logo.png" alt="China Telecom Logo" style="width: 80px; height: 80px; margin-right: 10px;"> <!-- Adjust margin-right for space -->
+  <div> <!-- No additional padding -->
     <strong>China Telecom (Gansu Branch)</strong>,&nbsp;&nbsp;<strong>Jul 2019 - Mar 2021</strong><br>
-    <strong>Market Support</strong>
+    <strong>- Market Support</strong>
   </div>
 </div>
 
