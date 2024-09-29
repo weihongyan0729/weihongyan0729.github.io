@@ -18,11 +18,11 @@
 </tr>
 </table>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;"> <!-- Use flex-start for alignment -->
-  <img src="static/assets/img/ct_logo.png" alt="China Telecom Logo" style="width: 80px; height: 80px; margin-right: 10px;"> <!-- Adjust margin-right for space -->
-  <div> <!-- No additional padding -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;"> <!-- Increased margin-bottom -->
+  <img src="static/assets/img/ct_logo.png" alt="China Telecom Logo" style="width: 80px; height: 80px; margin-right: 10px;"> <!-- Keep margin-right for spacing -->
+  <div style="margin-top: 10px;"> <!-- Added margin-top to create space -->
     <strong>China Telecom (Gansu Branch)</strong>,&nbsp;&nbsp;<strong>Jul 2019 - Mar 2021</strong><br>
-    <strong>- Market Support</strong>
+    <strong>Market Support</strong>
   </div>
 </div>
 
@@ -34,3 +34,4 @@
   </td>
 </tr>
 </table>
+
