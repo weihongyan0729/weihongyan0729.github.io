@@ -1,4 +1,4 @@
-- <img src="static/assets/img/ericsson_logo.png" alt="Ericsson Logo" style="width: 20px; height: 20px; vertical-align: middle;"> 
+- <img src="static/assets/img/ericsson_logo.png" alt="Ericsson Logo" style="width: 80px; height: 80px; vertical-align: middle;"> 
   **Ericsson (GSC)**,&nbsp;&nbsp;**Apr 2021 - Present**  
   **Integration Engineer**  
 
@@ -14,7 +14,7 @@
   </tr>
   </table>
 
-- <img src="static/assets/img/ct_logo.png" alt="China Telecom Logo" style="width: 20px; height: 20px; vertical-align: middle;"> 
+- <img src="static/assets/img/ct_logo.png" alt="China Telecom Logo" style="width: 80px; height: 80px; vertical-align: middle;"> 
   **China Telecom (Gansu Branch)**,&nbsp;&nbsp;**Jul 2019 - Mar 2021**  
   **Market Support**  
 
