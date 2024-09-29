@@ -1,6 +1,7 @@
-<div style="display: flex; align-items: flex-start; margin-bottom: 25px;"> <!-- Use flex-start for alignment, increased margin-bottom -->
-  <img src="static/assets/img/ericsson_logo.png" alt="Ericsson Logo" style="width: 80px; height: 80px; margin-right: 10px;"> <!-- Adjust margin-right for space -->
-  <div> <!-- No additional padding -->
+<!-- Ericsson Section -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px;"> <!-- Keep align-items consistent -->
+  <img src="static/assets/img/ericsson_logo.png" alt="Ericsson Logo" style="width: 80px; height: 80px; margin-right: 15px;"> <!-- Same margin-right -->
+  <div>
     <strong>Ericsson (GSC)</strong>,&nbsp;&nbsp;<strong>Apr 2021 - Present</strong><br>
     <strong>- Integration Engineer</strong>
   </div>
@@ -17,21 +18,23 @@
   </td>
 </tr>
 </table>
+
 <br>
-<div style="display: flex; align-items: center;"> <!-- Keeping the relative alignment unchanged -->
-  <img src="static/assets/img/ct_logo.png" alt="China Telecom Logo" style="width: 80px; height: 80px; margin-right: 15px;"> <!-- Right margin for spacing -->
+
+<!-- China Telecom Section -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px;"> <!-- Keep align-items consistent -->
+  <img src="static/assets/img/ct_logo.png" alt="China Telecom Logo" style="width: 80px; height: 80px; margin-right: 15px;"> <!-- Same margin-right -->
   <div>
-    <strong>China Telecom (Gansu Branch)</strong>,&nbsp;&nbsp;<strong>Jul 2019 - Mar 2021</strong><br> <!-- Company and position on one line -->
-    <strong>- Market Support</strong> <!-- Position on next line -->
+    <strong>China Telecom (Gansu Branch)</strong>,&nbsp;&nbsp;<strong>Jul 2019 - Mar 2021</strong><br>
+    <strong>- Market Support</strong>
   </div>
 </div>
-<div style="margin-bottom: 25px;"> <!-- Add extra space after the China Telecom description -->
-  <table>
-  <tr>
-    <td style="font-size: 0.9em; line-height: 1.2em; text-align: justify;">
+
+<table>
+<tr>
+  <td style="font-size: 0.9em; line-height: 1.2em; text-align: justify;">
     • Counted monthly telecom business data (1.2 million+ records) covering three counties and one district of the branch company. Audited all statistics and returned non-compliant orders to the agent for rectification, ensuring the consistency and compliance of the data.<br>
     • Analyzed and visualized the weekly business data, aggregated precise calculations for key indicators based on compliant data. Identified the root cause for business churn and made weekly business analysis reports, providing robust statistical support for risk management and business strategies of the company.
-    </td>
-  </tr>
-  </table>
-</div>
+  </td>
+</tr>
+</table>
