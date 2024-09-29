@@ -22,7 +22,6 @@
 
 <!-- Leading Talent Project of Dalian, Liaoning province (DUFE) -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 25px;">
-  <img src="static/assets/img/multimodel_service_robots.png" alt="Multi-Modal Service Robots" width="80" height="80" style="margin-right: 15px;">
   <div>
     <strong>Leading Talent Project of Dalian, Liaoning province (DUFE)</strong>,&nbsp;&nbsp;<strong>Jan 2023 - Present</strong><br>
     <strong>- Multi-Modal Intelligent Interaction and Optimization Algorithms Research for Bionic Service Robots</strong><br>
@@ -44,7 +43,6 @@
 
 <!-- Helmet Wearing Detection based on YOLOv5 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 25px;">
-  <img src="static/assets/img/YOLOV5.png" alt="YOLOv5 Helmet Detection" width="80" height="80" style="margin-right: 15px;">
   <div>
     <strong>Helmet Wearing Detection based on YOLOv5</strong>,&nbsp;&nbsp;<strong>May 2023 - Jul 2023</strong><br>
   </div>
@@ -65,7 +63,6 @@
 
 <!-- Design and Implementation of Image Enhancement System -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 25px;">
-  <img src="static/assets/img/undergraducate_thesis.png" alt="Undergraduate Thesis" width="80" height="80" style="margin-right: 15px;">
   <div>
     <strong>Design and Implementation of Image Enhancement System</strong>,&nbsp;&nbsp;<strong>Dec 2018 - Jun 2019</strong><br>
     <strong>Supervisor:</strong> <a href="https://xueshu.baidu.com/scholarID/CN-BB74F05J?site=xueshu_ri">Professor Yong Chen</a>
