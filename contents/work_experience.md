@@ -25,7 +25,8 @@
     <strong>- Market Support</strong> <!-- Position on next line -->
   </div>
 </div>
-<div style="margin-bottom: 40px;"> <!-- Add extra space after the China Telecom description -->
+<br><br>
+<div style="margin-bottom: 25px;"> <!-- Add extra space after the China Telecom description -->
   <table>
   <tr>
     <td style="font-size: 0.9em; line-height: 1.2em; text-align: justify;">

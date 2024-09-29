@@ -40,7 +40,7 @@
   </tr>
   </table>
 
-- **Design and Implementation of Image Enhancement System**,**Dec 2018 - Jun 2019**<br>
+- **Design and Implementation of Image Enhancement System**,&nbsp;&nbsp;**Dec 2018 - Jun 2019**<br>
   **Supervisor:** [Professor Yong Chen](https://xueshu.baidu.com/scholarID/CN-BB74F05J?site=xueshu_ri)  
 
   <table>
