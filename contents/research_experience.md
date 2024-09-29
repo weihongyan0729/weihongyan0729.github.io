@@ -27,8 +27,7 @@
   </tr>
   </table>
 
-- **Research Experiment (DUFE)**,&nbsp;&nbsp;**May 2023 - Jul 2023**<br>
-  **Helmet Wearing Detection based on YOLOv5**
+- **Helmet Wearing Detection based on YOLOv5 (DUFE)**,&nbsp;&nbsp;**May 2023 - Jul 2023**<br>
 
   <table>
   <tr>
@@ -41,8 +40,7 @@
   </tr>
   </table>
 
-- **Undergraduate Thesis**,**Dec 2018 - Jun 2019**<br>
-  **Design and Implementation of Image Enhancement System**
+- **Design and Implementation of Image Enhancement System**,**Dec 2018 - Jun 2019**<br>
   **Supervisor:** [Professor Yong Chen](https://xueshu.baidu.com/scholarID/CN-BB74F05J?site=xueshu_ri)  
 
   <table>
