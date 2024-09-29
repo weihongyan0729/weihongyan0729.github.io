@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;"> <!-- Use flex-start for alignment -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px;"> <!-- Use flex-start for alignment, increased margin-bottom -->
   <img src="static/assets/img/ericsson_logo.png" alt="Ericsson Logo" style="width: 80px; height: 80px; margin-right: 10px;"> <!-- Adjust margin-right for space -->
   <div> <!-- No additional padding -->
     <strong>Ericsson (GSC)</strong>,&nbsp;&nbsp;<strong>Apr 2021 - Present</strong><br>
@@ -18,7 +18,7 @@
 </tr>
 </table>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;"> <!-- Use center alignment for better coordination -->
+<div style="display: flex; align-items: center;"> <!-- Keeping the relative alignment unchanged -->
   <img src="static/assets/img/ct_logo.png" alt="China Telecom Logo" style="width: 80px; height: 80px; margin-right: 15px;"> <!-- Right margin for spacing -->
   <div>
     <strong>China Telecom (Gansu Branch)</strong>,&nbsp;&nbsp;<strong>Jul 2019 - Mar 2021</strong><br> <!-- Company and position on one line -->
@@ -26,13 +26,13 @@
   </div>
 </div>
 
-<table>
-<tr>
-  <td style="font-size: 0.9em; line-height: 1.2em; text-align: justify;">
-  • Counted monthly telecom business data (1.2 million+ records) covering three counties and one district of the branch company. Audited all statistics and returned non-compliant orders to the agent for rectification, ensuring the consistency and compliance of the data.<br>
-  • Analyzed and visualized the weekly business data, aggregated precise calculations for key indicators based on compliant data. Identified the root cause for business churn and made weekly business analysis reports, providing robust statistical support for risk management and business strategies of the company.
-  </td>
-</tr>
-</table>
-
-
+<div style="margin-bottom: 25px;"> <!-- Add extra space after the China Telecom description -->
+  <table>
+  <tr>
+    <td style="font-size: 0.9em; line-height: 1.2em; text-align: justify;">
+    • Counted monthly telecom business data (1.2 million+ records) covering three counties and one district of the branch company. Audited all statistics and returned non-compliant orders to the agent for rectification, ensuring the consistency and compliance of the data.<br>
+    • Analyzed and visualized the weekly business data, aggregated precise calculations for key indicators based on compliant data. Identified the root cause for business churn and made weekly business analysis reports, providing robust statistical support for risk management and business strategies of the company.
+    </td>
+  </tr>
+  </table>
+</div>
