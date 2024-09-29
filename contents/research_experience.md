@@ -1,6 +1,5 @@
 <!-- Master’s Thesis (DUFE) -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 25px;">
-  <img src="static/assets/img/graducation_thesis.png" alt="Graduation Thesis" width="80" height="80" style="margin-right: 15px;">
   <div>
     <strong>Master’s Thesis (DUFE)</strong>,&nbsp;&nbsp;<strong>Mar 2024 - Present</strong><br>
     <strong>- Short Video Popularity Prediction and Quality Assessment Based on Multi-modal Fusion</strong><br>
