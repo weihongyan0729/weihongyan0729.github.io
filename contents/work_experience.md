@@ -18,11 +18,11 @@
 </tr>
 </table>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;"> <!-- Increased margin-bottom -->
-  <img src="static/assets/img/ct_logo.png" alt="China Telecom Logo" style="width: 80px; height: 80px; margin-right: 10px;"> <!-- Keep margin-right for spacing -->
-  <div style="margin-top: 10px;"> <!-- Added margin-top to create space -->
-    <strong>China Telecom (Gansu Branch)</strong>,&nbsp;&nbsp;<strong>Jul 2019 - Mar 2021</strong><br>
-    <strong>Market Support</strong>
+<div style="display: flex; align-items: center; margin-bottom: 20px;"> <!-- Use center alignment for better coordination -->
+  <img src="static/assets/img/ct_logo.png" alt="China Telecom Logo" style="width: 80px; height: 80px; margin-right: 15px;"> <!-- Right margin for spacing -->
+  <div>
+    <strong>China Telecom (Gansu Branch)</strong>,&nbsp;&nbsp;<strong>Jul 2019 - Mar 2021</strong><br> <!-- Company and position on one line -->
+    <strong>- Market Support</strong> <!-- Position on next line -->
   </div>
 </div>
 
@@ -34,4 +34,5 @@
   </td>
 </tr>
 </table>
+
 
