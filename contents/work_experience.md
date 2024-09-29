@@ -2,7 +2,7 @@
   <img src="static/assets/img/ericsson_logo.png" alt="Ericsson Logo" style="width: 80px; height: 80px; margin-right: 10px;">
   <div>
     <strong>Ericsson (GSC)</strong>,&nbsp;&nbsp;<strong>Apr 2021 - Present</strong><br>
-    <strong>Integration Engineer</strong>
+    <strong>-Integration Engineer</strong>
   </div>
 </div>
 
@@ -22,7 +22,7 @@
   <img src="static/assets/img/ct_logo.png" alt="China Telecom Logo" style="width: 80px; height: 80px; margin-right: 10px;">
   <div>
     <strong>China Telecom (Gansu Branch)</strong>,&nbsp;&nbsp;<strong>Jul 2019 - Mar 2021</strong><br>
-    <strong>Market Support</strong>
+    <strong>-Market Support</strong>
   </div>
 </div>
 
