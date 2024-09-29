@@ -17,7 +17,7 @@
   </td>
 </tr>
 </table>
-
+<br><br>
 <div style="display: flex; align-items: center;"> <!-- Keeping the relative alignment unchanged -->
   <img src="static/assets/img/ct_logo.png" alt="China Telecom Logo" style="width: 80px; height: 80px; margin-right: 15px;"> <!-- Right margin for spacing -->
   <div>
@@ -25,7 +25,6 @@
     <strong>- Market Support</strong> <!-- Position on next line -->
   </div>
 </div>
-<br><br>
 <div style="margin-bottom: 25px;"> <!-- Add extra space after the China Telecom description -->
   <table>
   <tr>
